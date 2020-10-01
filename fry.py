@@ -1,4 +1,4 @@
 from trial import x
 
-y = x(4i)
+y = x(i4i)
 print(y)
